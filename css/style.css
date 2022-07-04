@@ -1,0 +1,8 @@
+#nav-bar {
+  position: fixed;
+}
+#video {
+  display: flex;
+  justify-content: center;
+  padding: 70px;
+}
